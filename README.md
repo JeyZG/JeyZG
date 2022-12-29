@@ -1,11 +1,15 @@
 <h1 align="justify">Hola a todos 👋 mi nombre es Jeyson Zuñiga</h1>
 
 <h4 align="justify">Soy ingeniero Mecatrónico con énfasis en Mantenimiento Industrial. Cuento con más de 6 años de experiencia especifica en el área de mantenimiento industrial, vehículos y maquinaria amarilla, experiencia en mantenimiento y gestión de sistemas automatizados. 
-  
+  <br /><br />
   En el área de desarrollo de software no tengo experiencia especifica, sin embargo, durante muchos años he desarrollado diverso software que me han permitido solucionar problemas en el área laboral, comercial y educativa. 
-  
-  Tengo amplios conocimientos en lógica de programación, conocimientos básicos en desarrollo de software Web y de escritorio con Java, JavaScript, Python, C#, Visual Basic y de igual forma cuento con conocimiento en frameworks/librerías como SpringBoot (Java), React (JS), Express (JS) y NodeJS. Manejo básico y suficiente de base de datos relacionales (SQL) con MySQL, PosgreSQL y no relacionales (NOSQL) con MongoDB y manejo básico de desarrollo de aplicaciones móviles en lenguaje de programación Dart con el SDK Flutter.</h4>
-
+  <br /><br />
+  Tengo amplios conocimientos en lógica de programación, conocimientos básicos en desarrollo de aplicaciones web y de escritorio con Java, JavaScript, Python, C#, VisualBasic.Net y de igual forma cuento con conocimiento en frameworks/librerías como SpringBoot (Java), React (JS), Express (JS) y NodeJS. Conocimientos básicos de desarrollo de aplicaciones móviles en lenguaje de programación Dart con el SDK Flutter.
+  <br /><br />
+  Manejo de base de datos relacionales (SQL) con MySQL, PostgreSQL y no relacionales (NOSQL) con MongoDB
+  <br /><br />
+Adicionalmente tengo conocimientos en metodologias agiles como Scrum y cuento con muy buenas habilidades como trabajo en equipo, solucion de problemas, creatividad, pensamiento critico, orientacion al servicio, flexibilidad cognitiva, entre otras.
+</h4>
 <ul>
 <li>🌍  Vivo en Cartagena de Indias - Colombia</li>
 <li>✉️  Puedes contactarme en ingjeysonzg@hotmail.com</li>
